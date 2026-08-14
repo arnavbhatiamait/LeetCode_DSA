@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
