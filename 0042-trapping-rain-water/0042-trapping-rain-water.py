@@ -1,17 +1,19 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        n = len(height)
-
-        l_max = [0] * n
-        r_max = [0] * n
-        l_max[0]=height[0]
+        # ! 2 pointer
+        l_max=0
+        r_max=0
+        l=0
+        n=len(height)
+        r=n-1
         ans=0
-        r_max[len(height)-1]=height[len(height)-1]
-        # ! left max val
-        for i in range(1,len(height)):
-            l_max[i]=max(l_max[i-1],height[i])
-        for i in range(len(height)-2,-1,-1):
-            r_max[i]=max(r_max[i+1],height[i])
-        for i in range(len(height)):
-            ans+=min(l_max[i],r_max[i])-height[i]
+        while(l<r):
+            l_max=max(l_max,height[l])
+            r_max=max(r_max,height[r])
+            if l_max<r_max:
+                ans+=l_max-height[l]
+                l+=1
+            else:
+                ans+=r_max-height[r]
+                r-=1
         return ans
