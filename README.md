@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
