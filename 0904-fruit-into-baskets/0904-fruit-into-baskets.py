@@ -1,14 +1,17 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        l=0
-        freq={}
+        last=second_last=-1
+        last_count=0
+        start=0
         ans=0
-        for r in range(len(fruits)):
-            freq[fruits[r]]=freq.get(fruits[r],0)+1
-            while len(freq.keys())>2:
-                freq[fruits[l]]-=1
-                if freq[fruits[l]]==0:
-                    del freq[fruits[l]]
-                l+=1
-            ans=max(ans,r-l+1)
+        for i,fruit in enumerate(fruits):
+            if fruit == last:
+                last_count+=1
+            else:
+                if fruit !=second_last:
+                    start=i-last_count
+                second_last=last
+                last=fruit
+                last_count=1
+            ans=max(ans,i-start+1)
         return ans
