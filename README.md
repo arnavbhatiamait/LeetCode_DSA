@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
