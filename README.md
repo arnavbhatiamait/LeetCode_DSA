@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Bit Manipulation
