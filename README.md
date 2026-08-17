@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
