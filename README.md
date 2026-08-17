@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Quicksort
