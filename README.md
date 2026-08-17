@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
