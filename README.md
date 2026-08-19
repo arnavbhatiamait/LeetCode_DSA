@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0066-plus-one](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
