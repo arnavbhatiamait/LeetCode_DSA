@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
