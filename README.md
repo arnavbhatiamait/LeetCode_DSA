@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
@@ -41,8 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0202-happy-number/) | Easy |
@@ -58,8 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -71,16 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1920-build-array-from-permutation](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1672-richest-customer-wealth](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0189-rotate-array/) | Medium |
@@ -88,8 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -98,20 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -126,8 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
@@ -141,73 +142,73 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0075-sort-colors/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0011-container-with-most-water/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0268-missing-number/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0169-majority-element/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0125-valid-palindrome](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0344-reverse-string/) | Easy |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0202-happy-number](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0202-happy-number/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Newton's Method
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/arnavbhatiamait/LeetCode_DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
